@@ -63,7 +63,7 @@
       contributing to the development of the organization.
       </P>
         <hr>
-    <table style="background-color: #00adb5; table-layout: auto;">
+    <table style="background-color: #00adb5;">
       <tr>
         <td>Educational Details</td>
       </tr>
