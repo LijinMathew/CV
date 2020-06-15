@@ -75,15 +75,13 @@
         <td> Institute</td>
         <td> CGPA</td>
       </tr>
-
       <tr>
         <td> 2020</td>
         <td> B.tech</td>
         <td> St Marys Group Of Institutions, Hyderabad.</td>
         <td> 7.0 </td>
       </tr>
-
-       <tr>
+      <tr>
         <td> 2016</td>
         <td> 12th</td>
         <td> Narayana Junior College, Hyderabad.</td>
@@ -94,9 +92,7 @@
         <td> SSC</td>
         <td> N.S.K.K High School, Hyderabad.</td>
         <td> 9.2</td>
-
-
-      </table>
+     </table>
 <hr>
 <table style="background-color: #00adb5; table-layout: auto;">
   <tr>
@@ -105,7 +101,7 @@
 </table>
 </hr>
 <ul>
-<li> Languages:</li></li> <p>JAVA,HTML,CSS,C Programming</p>
+<li> Languages:</li> <p>JAVA,HTML,CSS,C Programming</p>
 <li> Tools :</li> <p>MS-Excel, MS-Word </p>
 <li> Platform:</li> <p> Windows and Linux.</p>
 <li> Hackerrank: </li> <p>4696</p>
