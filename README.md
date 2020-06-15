@@ -2,7 +2,6 @@
 <html lang="en" dir="ltr">
   <head>
     <meta charset="utf-8">
-    <title>Lijin's CV</title>
     <style>
       ul,li,a{
        color: #f8b24f;
