@@ -39,6 +39,7 @@
         border: 1cm;
         border-color: #10375c;
         text-align: center;
+        width: 100%;
       
         margin-left: auto;
         margin-right: auto;
