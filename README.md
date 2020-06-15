@@ -39,7 +39,7 @@
         border: 1cm;
         border-color: #10375c;
         text-align: center;
-        color: #eeeeee;
+      
         margin-left: auto;
         margin-right: auto;
         column-gap: 500px;
