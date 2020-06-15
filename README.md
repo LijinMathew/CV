@@ -34,7 +34,7 @@
       table{
         font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
         font-weight: bold;
-        table-layout: auto;
+        
         align-items: center;
         border: 1cm;
         border-color: #10375c;
