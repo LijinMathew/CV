@@ -58,7 +58,7 @@
     
     <a href="write.html"; style="float: right;"> Contact me</a>
     <hr>
-    <table style="background-color: #00adb5; table-layout: auto; width: 1333px; column-gap: 100px; border-width: 1cm;">
+    <table style="background-color: #00adb5; table-layout: auto; column-gap: 100px; border-width: 1cm;">
       <tr>
       <td>Career Objective</td> </tr>
       </table>
@@ -67,7 +67,7 @@
       contributing to the development of the organization.
       </P>
         <hr>
-    <table style="background-color: #00adb5; table-layout: auto; width: 100%;">
+    <table style="background-color: #00adb5; table-layout: auto;">
       <tr>
         <td>Educational Details</td>
       </tr>
@@ -102,7 +102,7 @@
 
       </table>
 <hr>
-<table style="background-color: #00adb5; table-layout: auto; width: 1333px;">
+<table style="background-color: #00adb5; table-layout: auto;">
   <tr>
     <td> Techincal Skills</td>
   </tr>
@@ -115,7 +115,7 @@
 <li> Hackerrank: </li> <p>4696</p>
 </ul>
 <p> </p>
-<hr><table style="background-color: #00adb5; table-layout: auto; width: 1333px;">
+<hr><table style="background-color: #00adb5; table-layout: auto;">
   <tr>
     <td>Academic Projects</td>
   </tr>
@@ -130,7 +130,7 @@ reserve the available parking place before vehicle arriving at the parking.
 <p> The aim of this Hotel Recom-mendation System is to predict and recommend ﬁve hotelclusters to a user that he/she is more
 likely to bookgiven hundred distinct clusters</p>
 <hr>
-<table style="background-color: #00adb5; table-layout: auto; width: 1333px;">
+<table style="background-color: #00adb5; table-layout: auto;">
   <tr>
     <td>Experience</td>
   </tr>
@@ -147,7 +147,7 @@ providing practical learning rout through Workshops and Post Workshop Program.</
 <p> Managing and helping to create awareness about Entrepreneurship among the students and fellow n mates. Organizing
 various events and sessions to give students an insight of Entrepreneurship</p>
 <hr>
-<table style="background-color: #00adb5; table-layout: auto; width: 1333px;">
+<table style="background-color: #00adb5; table-layout: auto;">
   <tr>
     <td>Certificates</td>
   </tr>
