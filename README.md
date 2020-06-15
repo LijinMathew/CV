@@ -52,17 +52,9 @@
     </style>
   </head>
   <body>
-    <table style="text-align: center; margin-left: autp;margin-right: auto ;">
-      <tr>
-        <td>
         <h1 >Lijin Mathew</h1>
         <h3>+91-7732030103 || lijinmathew1998@gmail.com</h3>
-      </td>
-      <td>
-            <img src="C:\Users\Lijin Mathew\Desktop\Web Development\Dp.JPG" alt="lijin mathew" height="100" width="100">
-      </td>
-      </tr>
-    </table>
+    
     <a href="write.html"; style="float: right;"> Contact me</a>
     <hr>
     <table style="background-color: #00adb5; table-layout: auto; width: 1333px; column-gap: 100px; border-width: 1cm;">
