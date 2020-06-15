@@ -33,13 +33,11 @@
       table{
         font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
         font-weight: bold;
-        
         align-items: center;
         border: 1cm;
         border-color: #10375c;
         text-align: center;
         width: 100%;
-      
         margin-left: auto;
         margin-right: auto;
         column-gap: 500px;
