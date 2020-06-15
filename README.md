@@ -8,7 +8,6 @@
        color: #f8b24f;
        font-weight: bold;
        font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    
       }
       p{
         font-weight: bold;
@@ -55,9 +54,6 @@
   <body>
         <h1 >Lijin Mathew</h1>
         <h3>+91-7732030103 || lijinmathew1998@gmail.com</h3>
-    
-    <a href="write.html"; style="float: right;"> Contact me</a>
-    <hr>
     <table style="background-color: #00adb5; table-layout: auto; column-gap: 100px; border-width: 1cm;">
       <tr>
       <td>Career Objective</td> </tr>
